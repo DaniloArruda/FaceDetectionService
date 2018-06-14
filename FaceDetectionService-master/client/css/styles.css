@@ -1,0 +1,15 @@
+body {
+    text-align: center !important;
+    background-color: #efefef !important;
+}
+
+.sd-card {
+    display: inline-block !important;
+    width: 40% !important;
+    height: 250px;
+}
+
+.img {
+    max-width: 100%
+}
+
